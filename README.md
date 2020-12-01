@@ -13,7 +13,8 @@ As there are multiple concepts involved in this modelling, here are some concept
 ### What is Pharmacokinetics (PK)
 - Pharmacokinetics is the study of the time-course of drug movement through the body, and involves the quantification of absorption, distribution, metabolism and excretion (ADME) of the drug and its metabolites. These processes can be described mathematically by pharmacokinetic modelling, which is the representation of the drug in the body by mathematical models. 
 - In simpler terms, pharmacokinetics can be described as “what the body does to the drug”
-- When put together, these processes relate to the intensity and time profile of drug action, and knowledge of this is vital for understanding and guiding drug dosing therapies. For example, understanding the absorption and distribution patterns allows for the prediction of overall drug exposure and the amount of administered drug dose that reaches the bloodstream and the target site of action.
+- When put together, these processes relate to the intensity and time profile of drug action, and knowledge of this is vital for understanding and guiding drug dosing therapies. For example, understanding the absorption and distribution patterns allows for the prediction of overall drug exposure and the amount of administered drug dose that reaches the bloodstream and the target site of action.  
+  
 ![alt text](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution/blob/main/Images/pharmacokinetics.png)
 
 
