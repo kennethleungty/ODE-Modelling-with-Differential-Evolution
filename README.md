@@ -1,4 +1,4 @@
-# PK Modelling of Concentration Trajectories with Ordinary Differential Equations and Differential Evolution
+# PK Modelling of Drug Concentration Trajectories with Ordinary Differential Equations and Differential Evolution
 
 ## Motivation
 I explored pharmacokinetic (PK) modelling for drug concentration trajectories as part of a recent data science internship stint. While there are numerous concepts involved (and some background information in PK is required), the core data science concepts (e.g. loss function, optimization etc) still form the backbone of the entire project. Therefore, I felt it would be ideal to re-create the steps and clearly document the processes and flow involved.
