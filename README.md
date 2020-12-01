@@ -14,6 +14,8 @@ As there are multiple concepts involved in this modelling, here are some concept
 - Pharmacokinetics is the study of the time-course of drug movement through the body, and involves the quantification of absorption, distribution, metabolism and excretion (ADME) of the drug and its metabolites. These processes can be described mathematically by pharmacokinetic modelling, which is the representation of the drug in the body by mathematical models. 
 - In simpler terms, pharmacokinetics can be described as “what the body does to the drug”
 - When put together, these processes relate to the intensity and time profile of drug action, and knowledge of this is vital for understanding and guiding drug dosing therapies. For example, understanding the absorption and distribution patterns allows for the prediction of overall drug exposure and the amount of administered drug dose that reaches the bloodstream and the target site of action.
+![alt text](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution/blob/main/Images/pharmacokinetics.png)
+
 
 ### What is PK Modelling 
 - The purpose of pharmacokinetic modelling is to describe how a drug transits through the body by modelling concentrations of the drug in different parts of the body. 
@@ -24,6 +26,8 @@ As there are multiple concepts involved in this modelling, here are some concept
 - The advantage of using a compartmental approach is that it allows for the prediction of the drug concentration at any time point, and can be easily described and illustrated 
 - The number of compartments in a system may vary across different cases, although typically the range is between one and three compartments
 - A central compartment exists in all these compartmental models, and it typically represents the blood plasma and highly perfused, rapidly equilibrating organs such as the heart, liver and kidneys. Blood plasma is the liquid part of the blood that carries cells and proteins throughout the body. 
+- Some examples of compartments:
+![alt text](https://github.com/kennethleungty/ODE-Modelling-with-Differential-Evolution/blob/main/Images/compartment-images-1.png)
 
 ### What is Ordinary Differential Equations
 - The common mathematical approach to describe temporal profiles of plasma concentrations from a drug dosage regimen is with a system of ordinary differential equations (ODEs). 
