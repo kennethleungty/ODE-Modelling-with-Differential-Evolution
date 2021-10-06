@@ -5,7 +5,7 @@ I explored pharmacokinetic (PK) modelling for drug concentration trajectories as
 
 To keep it concise, the codes involving experimentation are removed, but are instead described in text within the Jupyter notebook itself. 
 
-The published poster for this project can be found here: https://www.dropbox.com/s/jtfd4rf8b7c73if/Poster%20-%20Kenneth%20Leung.pdf?dl=0
+The published poster for this project can be found here: https://drive.google.com/file/d/1JK4Y4ZWWLdHNXbz80pIaiHkybJPd2YZr/view
 
 ## Primers
 As there are multiple concepts involved in this modelling, here are some conceptual primers to get you up to speed with the intricacies of the modelling project
